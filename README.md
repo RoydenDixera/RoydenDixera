@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+# Hi there 👋
+
+🔭 I’m currently working on **building scalable web applications and exploring cloud-native solutions**  
+👯 I’m looking to collaborate on **open-source projects related to backend development and APIs**  
+🤝 I’m looking for help with **optimizing database queries and improving application performance**  
+🌱 I’m currently learning **Docker, Kubernetes, and advanced SQL techniques**  
+💬 Ask me about **Java, Spring Boot, REST APIs, and database design**  
+⚡ Fun fact: **I can debug faster with coffee than without! ☕**
+
 
 
 ## 🌐 Socials:
